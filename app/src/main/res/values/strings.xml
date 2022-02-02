@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Employee Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="companyDetails">Company details</string>
+    <string name="goBack">Go Back</string>
+    <string name="website">Website</string>
+</resources>

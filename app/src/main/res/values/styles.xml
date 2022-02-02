@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="detailsHint">
+        <item name="android:textColor">#5E5E5E</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="detailsData">
+        <item name="android:textColor">#632F2F</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="website">Website</style>
+
+</resources>
